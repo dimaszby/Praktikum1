@@ -3,10 +3,10 @@
 
 Alur algoritma
 
-mendeklerasikan variable int A, T sebagai variable input
-mengisi nilai variable input dengan nilai tertentu, misal: A = dan T =
-menghitung luas dengan rumus L = A * T
-mencetak hasil kelayar. cout << L << endl;
+1. mendeklerasikan variable int A, T sebagai variable input
+2. mengisi nilai variable input dengan nilai tertentu, misal: A = dan T =
+3. menghitung luas dengan rumus L = A * T
+4. mencetak hasil kelayar. cout << L << endl;
 berikut code lengkapnya:
 
 #include
